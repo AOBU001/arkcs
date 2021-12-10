@@ -5,5 +5,5 @@ basic.forever(function () {
         # . # . # . # . # .
         . # . # . # . # . #
         # . # . # . # . # .
-        `).scrollImage(1, 100)
+        `).scrollImage(1, 0)
 })

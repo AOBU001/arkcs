@@ -1,7 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="KazSO)I~61.0GEaMZDgw">画像</variable></variables><block type="device_forever" id="4F/HWVy!IL(Y;}cum4*r" x="-72" y="-188"><statement name="HANDLER"><block type="device_scroll_image" id="V~,e2Tb^Q}o0vU+uef3="><value name="sprite"><block type="device_build_big_image" id="nadS(OzNh|+#1o9T6%GU"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="KazSO)I~61.0GEaMZDgw">A</variable></variables><block type="device_forever" id="4F/HWVy!IL(Y;}cum4*r" x="-120" y="-193"><statement name="HANDLER"><block type="device_scroll_image" id="V~,e2Tb^Q}o0vU+uef3="><value name="sprite"><block type="device_build_big_image" id="nadS(OzNh|+#1o9T6%GU"><field name="LEDS">`
         # . # . # . # . # . 
         . # . # . # . # . # 
         # . # . # . # . # . 
         . # . # . # . # . # 
         # . # . # . # . # .
-        `</field></block></value><value name="frameoffset"><shadow type="math_number" id="Ri!YLpV!?!R)U14jLNwb"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id="Sh(IzYUELkMtak~:iIzx"><field name="NUM">100</field></shadow></value></block></statement></block><block type="variables_get" id="Ek%DCI8);b$8W;SQkr=7" disabled="true" x="48" y="5"><field name="VAR" id="KazSO)I~61.0GEaMZDgw">画像</field></block></xml>
+        `</field></block></value><value name="frameoffset"><shadow type="math_number" id="Ri!YLpV!?!R)U14jLNwb"><field name="NUM">1</field></shadow></value><value name="delay"><shadow type="math_number" id="Sh(IzYUELkMtak~:iIzx"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
